@@ -2,5 +2,6 @@ p {
     color:red;
 }
 p {
-    color:antiquewhite
+    color:antiquewhite;
+    text-align: center;
 }
