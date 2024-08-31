@@ -2,6 +2,6 @@ p {
     color:red;
 }
 p {
-    color:antiquewhite
+    color:antiquewhite;
+    text-align: right;
 }
-<p>Hello world</p>
